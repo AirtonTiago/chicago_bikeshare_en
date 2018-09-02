@@ -26,7 +26,9 @@ Birth Year (e.g., 1980)
 The original files, which can be accessed here (Chicago¹, New York City², Washington³), had more columns and they differed in format in many cases. Some data wrangling has been performed to condense these files to the above core six columns to make your analysis and the evaluation of your Python skills more straightforward. In the Data Wrangling course that follows this course in the Data Analyst Nanodegree program, students learn how to wrangle the dirtiest, messiest datasets so don't fret if you worried about missing out.
 
 ¹https://www.divvybikes.com/system-data
+
 ²https://www.citibikenyc.com/system-data
+
 ³https://www.capitalbikeshare.com/system-data
 
 
